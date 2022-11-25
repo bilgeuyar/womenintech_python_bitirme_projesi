@@ -28,7 +28,5 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 ```
-```python
-df = pd.read_csv("covid-data.csv") 
-```
+
   
