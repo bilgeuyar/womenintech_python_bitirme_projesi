@@ -14,6 +14,7 @@ Bu projede dünya genelindeki ve Türkiye'deki covid-19 verileri incelenmiştir.
 * Kıtalara Göre Yeni Vakaların Barplotta Gösterimi
 * 65 Yaşından Büyük Vakaların Toplamı
 * Kıtalara Göre Ölüm Oranı Hesaplayarak Catplot Grafiğinde Gösterimi
+
 ***Türkiye İçin***
 * Tarihe Göre Yeni Vaka Sayıları
 * Pozitif Çıkan Sonuçlar ve Yeni Vakalar Arasındaki İlişki
