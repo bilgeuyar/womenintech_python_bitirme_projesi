@@ -20,7 +20,7 @@ Bu projede dünya genelindeki ve Türkiye'deki covid-19 verileri incelenmiştir.
 * Toplam Vaka ve Toplam Ölüm Arasındaki İlişki
 * Türkiye için Heatmap
 
-## Kullanım/Örnekler
+## Kullanılan Modüller
 
 ```python
 import pandas as pd
